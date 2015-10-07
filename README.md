@@ -1,7 +1,7 @@
 # post-it-react
 
 Visual Twist on a todo list.
-1. click on top righ button to add a post-it note
+1. click on top right button to add a post-it note
 2. click on pencil to edit a post-it note
 3. save a post-it note
 4. click on floppy disk icon to delete
