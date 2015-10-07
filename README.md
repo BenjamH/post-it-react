@@ -8,13 +8,13 @@ Visual Twist on a todo list.
   4. click on floppy disk icon to delete
 
 TECHNOLOGIES USED
-1. Express for backend
-2. React for frontend
+  1. Express for backend
+  2. React for frontend
 
 
 CONTRIBUTE
-1. Maybe render multiple React board components to create specific post-it note board (ex. groceries, party-planning, studying)
-2. Be creative, and maybe turn it into a collage-maker.
+  1. Maybe render multiple React board components to create specific post-it note board (ex. groceries, party-planning, studying)
+  2. Be creative, and maybe turn it into a collage-maker.
 
 
 
